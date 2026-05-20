@@ -1,3 +1,4 @@
+![image of RunSmart AI](/runsmart-ai-banner.png.png)
 # RunSmart AI — adaptive-running-coach
 
 Final project for the Building AI course: AI-powered personalized running coach for adaptive training and recovery recommendations.
