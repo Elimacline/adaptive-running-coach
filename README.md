@@ -1,8 +1,10 @@
 # RunSmart AI — adaptive-running-coach
 
-Final project for the Building AI course: AI-powered personalized running coach for adaptive training and recovery recommendations.
+AI-powered adaptive running coach that personalizes training based on recovery, fatigue, sleep and real-world performance data.
 
 ![image of RunSmart AI](/runsmart-ai-banner.png.png)
+
+Final project for the Building AI course: AI-powered personalized running coach for adaptive training and recovery recommendations.
 
 ## Summary
 
