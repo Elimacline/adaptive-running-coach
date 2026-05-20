@@ -31,7 +31,7 @@ This topic is interesting because personalized coaching is still limited and AI 
 
 ## How is it used?
 
-![image of RunSmart AI](/How is it used.png)
+![image of RunSmart AI](/How_is_it_used.png)
 
 Users define a goal:
 
@@ -70,7 +70,7 @@ Potential users:
 
 ## Data sources and AI methods
 
-![image of RunSmart AI](/Data sources & methods.png)
+![image of RunSmart AI](/Data_sources_&_methods.png)
 
 Possible data sources:
 
@@ -128,7 +128,7 @@ Ethical considerations:
 
 ## What next?
 
-![image of RunSmart AI](/What next.png)
+![image of RunSmart AI](/What_next.png)
 
 Possible future improvements:
 
