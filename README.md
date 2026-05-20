@@ -4,11 +4,13 @@ Final project for the Building AI course: AI-powered personalized running coach 
 
 ## Summary
 
-RunSmart AI is an AI-powered running coach that dynamically adapts training plans based on a runner’s physical condition, recovery, sleep, fatigue, and activity history. Instead of following a fixed program, the system continuously personalizes recommendations for any race distance or running goal.
-
 ![image of RunSmart AI](/runsmart-ai-banner.png.png)
 
+RunSmart AI is an AI-powered running coach that dynamically adapts training plans based on a runner’s physical condition, recovery, sleep, fatigue, and activity history. Instead of following a fixed program, the system continuously personalizes recommendations for any race distance or running goal.
+
 ## Background
+
+![image of RunSmart AI](/Background.png)
 
 Many running plans available online are static. They assume that every runner progresses in the same way and can follow identical sessions regardless of lifestyle, recovery, stress, or other physical activities.
 
@@ -28,6 +30,8 @@ My personal motivation comes from practicing sports regularly and seeing how dif
 This topic is interesting because personalized coaching is still limited and AI can help create adaptive recommendations based on real-world data.
 
 ## How is it used?
+
+![image of RunSmart AI](/How is it used.png)
 
 Users define a goal:
 
@@ -66,6 +70,8 @@ Potential users:
 
 ## Data sources and AI methods
 
+![image of RunSmart AI](/Data sources & methods.png)
+
 Possible data sources:
 
 | Data               | Source               | Usage               |
@@ -102,6 +108,8 @@ Later versions could use machine learning models trained on historical user data
 
 ## Challenges
 
+![image of RunSmart AI](/Challenges.png)
+
 RunSmart AI does not replace doctors, physiotherapists or certified coaches.
 
 Limitations:
@@ -119,6 +127,8 @@ Ethical considerations:
 * transparency is important so users understand decisions
 
 ## What next?
+
+![image of RunSmart AI](/What next.png)
 
 Possible future improvements:
 
@@ -142,6 +152,8 @@ Skills needed:
 * data visualization
 
 ## Acknowledgments
+
+![image of RunSmart AI](/Acknowledgement.png)
 
 Sources of inspiration:
 
