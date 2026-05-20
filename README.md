@@ -2,6 +2,7 @@
 ![AI](https://img.shields.io/badge/AI-BuildingAI-blue)
 ![Status](https://img.shields.io/badge/status-concept-green)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
+
 AI-powered adaptive running coach that personalizes training based on recovery, fatigue, sleep and real-world performance data.
 
 ![image of RunSmart AI](/images/runsmart-ai-banner.png.png)
